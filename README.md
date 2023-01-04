@@ -1,6 +1,4 @@
-# Mechanics
-
-Mechanical Engineering Projects Using Python.
+# Mechanical Engineering Projects Using Python
 
 This repository is a playground to mess around with *Classical Mechanics* ✖ *Python* and to share some code and notebooks.
 
